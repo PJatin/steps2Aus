@@ -1,0 +1,10 @@
+.carousel-indicators li{
+    border-radius: 50%;
+    height: 10px !important;
+    width: 10px !important;
+}
+.carousel-caption h5, .carousel-caption h6{
+    margin-bottom: 3px;
+    padding: 0px;
+    font-family: 'Caveat', cursive;
+}
