@@ -1,7 +1,7 @@
 .carousel-indicators li{
     border-radius: 50%;
-    height: 3vw !important;
-    width: 3vw !important;
+    height: 2vw !important;
+    width: 2vw !important;
 }
 .carousel-caption h5, .carousel-caption h6{
     margin-bottom: 3px;
